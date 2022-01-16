@@ -10,17 +10,17 @@ role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: KU Leuven
-  url: https://www.kuleuven.be/
+- name: KU Leuven (MeBioS)
+  url: https://www.biw.kuleuven.be/biosyst/mebios/biophotonics-group
 
 # Short bio (displayed in user profile at end of posts)
 bio: Deep Learning Research / Data Scientist.    
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Machine Learning
+- Data Science & Engineering
 
 # Education to show in About widget
 education:
