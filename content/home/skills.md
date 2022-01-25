@@ -26,7 +26,7 @@ feature:
   name: Deep Learning
 - description: Ubuntu, Raspbian, bash
   icon: linux
-  icon_pack: fa
+  icon_pack: fab
   name: Linux
 
 # Uncomment to use emoji icons.
