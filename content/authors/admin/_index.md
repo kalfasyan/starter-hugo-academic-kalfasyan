@@ -25,15 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Bioscience Engineering, "Big Data in Agriculture"
+    institution: KU Leuven, Belgium
+    year: expected to graduate Oct 2022
+  - course: PhD in Neurophysiology, "Deep Learning in Neurophysiology"
+    institution: KU Leuven, Belgium
+    year: 2015-1017 (exited programme after 2 years having completed the requirements)
+  - course: MSc in Machine Learning & Computational Biology
+    institution: KTH Royal Institute of Technology, Sweden
+    year: 2015
+  - course: BSc in Computer Science
+    institution: Aristotle University of Thessaloniki, Greece
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
