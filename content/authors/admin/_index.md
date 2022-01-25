@@ -21,6 +21,7 @@ interests:
 - Computer Vision
 - Machine Learning
 - Data Science & Engineering
+- Computational Biology
 
 # Education to show in About widget
 education:
