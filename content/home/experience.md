@@ -25,7 +25,7 @@ experience:
   - title: PhD Researcher
     company: KU Leuven
     company_url: 'https://www.biw.kuleuven.be/biosyst/mebios/biophotonics-group'
-    company_logo: KUL
+    company_logo: 'KUL'
     location: Leuven, Belgium
     date_start: '2018-12-02'
     date_end: ''
