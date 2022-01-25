@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 95%
+- description: Pandas, Sklearn, Numpy 
   icon: python
   icon_pack: fab
   name: Python
-- description: 90%
+- description: Pytorch, Tensorflow, Keras
   icon: project-diagram
   icon_pack: fa
   name: Deep Learning
-- description: 10%
-  icon: cloud
-  icon_pack: fas
-  name: MLOps
+- description: Ubuntu, Raspbian, bash
+  icon: linux
+  icon_pack: fa
+  name: Linux
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
