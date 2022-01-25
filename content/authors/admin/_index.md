@@ -28,11 +28,11 @@ education:
   courses:
   - course: PhD in Bioscience Engineering, "Big Data in Agriculture"
     institution: KU Leuven, Belgium
-    year: 2018-2022 (expected: October)
+    year: 2018-present
   - course: PhD in Neurophysiology, "Deep Learning in Neurophysiology"
     institution: KU Leuven, Belgium
-    year: 2015-1017 (exited after 2 years)
-  - course: MSc in Machine Learning & Computational Biology
+    year: 2015-2017, exited after 2 years
+  - course: MSc in Machine Learning, Computational Biology
     institution: KTH Royal Institute of Technology, Sweden
     year: 2015
   - course: BSc in Computer Science
