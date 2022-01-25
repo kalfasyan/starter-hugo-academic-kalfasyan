@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-10-11"
   description: 
-  organization: edX
+  organization: Coursera
   organization_url: https://www.coursera.org
   title: Generative Deep Learning with TensorFlow
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
