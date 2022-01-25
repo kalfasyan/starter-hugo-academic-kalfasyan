@@ -40,7 +40,7 @@ experience:
   - title: Data Scientist
     company: Faktion
     company_url: 'https://www.faktion.com/'
-    company_logo: org-x
+    company_logo: 'FAKTION'
     location: Antwerp, Belgium
     date_start: '2017-12-01'
     date_end: '2018-12-01'
@@ -54,7 +54,7 @@ experience:
   - title: PhD Researcher
     company: KU Leuven
     company_url: 'https://gbiomed.kuleuven.be/english/research/50000666/50000669/50488669'
-    company_logo: KUL
+    company_logo: 'KUL'
     location: Leuven, Belgium
     date_start: '2015-12-01'
     date_end: '2017-12-01'
