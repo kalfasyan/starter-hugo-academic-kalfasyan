@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: Some examples (See LinkedIn for full list)
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://coursera.org/share/7044b0691160cacb8617c25d223e9a5e
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2018-08-17"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Deep Learning Specialization
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://coursera.org/share/b5bf2c5056ecdb8a33b9e7b9902b1461
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2021-10-11"
+  description: 
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  organization_url: https://www.coursera.org
+  title: Generative Deep Learning with TensorFlow
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/a6db00cee17c3674150e15b30c8daf4487a641ef
+  date_end: ""
+  date_start: "2022-01-17"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: 'Importing & Cleaning Data with Python Track'
+  url: "https://www.datacamp.com"
 
 design:
   columns: '2' 
